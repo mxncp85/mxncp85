@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Epitech's projects<br>🌱 I’m currently learning the C Language<br>💬 Ask me about what you want ;)<br>📫 How to reach me ? Here : maxence.perronie@epitech.eu
+🔭 I’m currently working on Epitech's projects<br>🌱 I’m currently learning the C/C++/Java and many others languages and frameworks<br>💬 Ask me about what you want ;)<br>📫 How to reach me ? Here : maxence.perronie@epitech.eu
 
 
 ## 🌐 Socials:
